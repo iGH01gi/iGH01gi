@@ -27,6 +27,7 @@
 ### 🔍 Other
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iGH01gi&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
