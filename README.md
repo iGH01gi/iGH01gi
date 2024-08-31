@@ -31,9 +31,13 @@
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 <br>
 
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=iGH01gi&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+
+</div>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGH01gi&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGH01gi)](https://github.com/anuraghazra/github-readme-stats)-->
 
-</div>
+
