@@ -2,4 +2,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGH01gi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGH01gi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGH01gi&hide=contribs,prs,issues,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
