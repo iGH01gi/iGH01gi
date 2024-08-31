@@ -30,11 +30,11 @@
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 <br>
+<br>
 
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=iGH01gi&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-<br>
 
 </div>
 
