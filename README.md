@@ -3,9 +3,14 @@
 ### 누군가의 기억에 남는 게임을 만들고 싶은
 ## 🎮 게임 개발자 이건호 입니다 🎮
 
+<br>
+<br>
+
 #### 사용해본 
 
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=iGH01gi&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGH01gi&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
