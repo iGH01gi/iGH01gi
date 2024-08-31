@@ -3,24 +3,30 @@
 <div align="center">
   
 ### 누군가의 기억에 남는 게임을 만들고 싶은
-## 게임 개발자 이건호 입니다 
+## 게임 개발자 이건호 입니다. 
 
 </div>
 
-<br>
-<br>
-
-#### 🎮 사용해본 프레임워크
-![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+#### 🎮 Framework
 ![unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 <br>
-#### ⌨ 사용해본 언어
+#### ⌨ Language
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
-###
-
-
+### ☁️ Cloud
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br>
+### ⏱️ Workflow Platforms
+![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+<br>
+### 📑 DB
+![mssql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+### 🔍 Other
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iGH01gi&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
