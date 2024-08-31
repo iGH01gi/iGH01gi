@@ -1,4 +1,7 @@
-## Hi there 👋
+## 재밌는 게임을 만들고싶습니다 👋
+## 게임 개발자가 되고싶은
+# 이건호 
+## 입니다
 
 <!--
 **iGH01gi/iGH01gi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
