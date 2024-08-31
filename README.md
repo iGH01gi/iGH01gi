@@ -7,6 +7,10 @@
 
 </div>
 
+### ✍ [깃 블로그](https://igh01gi.github.io/)
+
+---
+
 #### 🎮 Framework
 ![unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
