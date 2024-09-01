@@ -7,7 +7,7 @@
 
 </div>
 
-### ✍ 블로그
+### ✍ Blog
 #### [깃 블로그-Brain Backup](https://igh01gi.github.io/)
 #### [티스토리-Brain Backup](https://igh01ti.tistory.com/)
 
