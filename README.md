@@ -8,8 +8,8 @@
 </div>
 
 ### ✍ Blog
-#### [깃 블로그-Brain Backup](https://igh01gi.github.io/)
-#### [티스토리-Brain Backup](https://igh01ti.tistory.com/)
+#### [깃 블로그-Brain Backup](https://igh01gi.github.io/){:target="_blank"}
+#### [티스토리-Brain Backup](https://igh01ti.tistory.com/){:target="_blank"}
 
 <br>
 
