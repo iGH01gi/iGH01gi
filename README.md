@@ -7,9 +7,11 @@
 
 </div>
 
-### ✍ [깃 블로그](https://igh01gi.github.io/)
+### ✍ 블로그
+[깃 블로그](https://igh01gi.github.io/)
+[티스토리](https://igh01ti.tistory.com/)
 
----
+<br>
 
 #### 🎮 Framework
 ![unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
