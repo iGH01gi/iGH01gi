@@ -8,8 +8,8 @@
 </div>
 
 ### ✍ 블로그
-[깃 블로그](https://igh01gi.github.io/)
-[티스토리](https://igh01ti.tistory.com/)
+#### [깃 블로그](https://igh01gi.github.io/)
+#### [티스토리](https://igh01ti.tistory.com/)
 
 <br>
 
