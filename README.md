@@ -24,7 +24,7 @@
 ### ☁️ Cloud
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <br>
-### ⏱️ Workflow Platforms
+### ⏱️ Workflow Platform
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 <br>
 ### 📑 DB
